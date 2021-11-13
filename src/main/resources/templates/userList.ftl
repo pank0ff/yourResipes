@@ -2,7 +2,6 @@
 
 <@c.page>
     List of users
-
     <table>
         <thead>
         <tr>
@@ -21,4 +20,6 @@
         </#list>
         </tbody>
     </table>
+    <th></th>
+    <span><a href="/main">Back main page</a></span>
 </@c.page>
