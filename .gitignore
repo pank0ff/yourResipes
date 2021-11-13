@@ -2,3 +2,6 @@
 *.jar
 target
 .idea
+node_modules
+npm-*.log
+generated
